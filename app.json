@@ -1,7 +1,7 @@
 {
     "name": "Dragon-MD-V4",
     "description": "A Whatsapp md bot built in NodeJs to make experience better",
-    "logo": "https://i.ibb.co/wRgDy33/20221104-225109.png",
+    "logo": "https://telegra.ph/file/ba5cfb1cf7198c7327ea2.jpg",
     "keywords": [
         "nodejs",
         "bot",
@@ -12,11 +12,11 @@
         "DragonMD",
         "multi device"
     ],
-    "success_url": "https://whatsapp.com/channel/0029VaBIKjbDzgTFi1qZLi0C",
+    "success_url": "https://whatsapp.com/channel/0029VaGwDfgKWEKtVRXU1u3p",
     "env": {
         "OWNER_NAME": {
             "description": "Name of Bot Owner",
-            "value": "Mr.Ameesha"
+            "value": "Mr.Guslher"
         },
         "ALIVE_MESSAGE": {
             "description": "Alive message for bot",
@@ -47,7 +47,7 @@
         },
         "ALIVE_IMAGE": {
             "description": "THUMBNAIL for bot.",
-            "value": "https://i.ibb.co/NF7FbF2/20230604-132133.png"
+            "value": "https://telegra.ph/file/ba5cfb1cf7198c7327ea2.jpg"
         },
         "ANTI_BAD_WORD": {
             "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -94,15 +94,15 @@
         },
         "OWNER_NUMBER": {
             "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-            "value": "94767453646"
+            "value": "923043942429"
         },
         "SESSION_ID": {
-            "description": "Please put your SESSION_ID here, Get from - https://replit.com/@AmiyaProgrammer/Dragon-MD-V4-QR?v=1"
+            "description": "DragonMD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0c5MVhTTHh4eTNNZ2xoSnRiS3JpK0hRYmNmdDZuVzhsdjVjeTUybDNGZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTlp5YnZXQ0dybCs5cy84SmNJK3BVUFB2WUZVbzk4Z0dHQThTVi9UOGZIOD0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJtRkthbXVjVlNNdmh0bFdZc2I4M0w1QzM3MElqUTF6MVdwVklENUtBbDJnPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJSd3ppcnFha0pjYXBEejNDb3c4NmZVOFFqeCtWQXg1Vmp1THM2T2E1cUhjPSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjBBdk5iM0twK2lycmtCRSttV0RKRXB6bnViaEluZ3JuZW41SnR5cVpjVW89In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImF1OHZtNzJsS1JkUlo3cjFKTWEwYVhUTUpuRTBzRWZ1RXlsR0RJWWFhVVk9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJGY0dHS3hNeC8wWm9rU3Q1alNMZVg5THBVOVpzc2ZqUC9NZTFnYmZmaCszNmZpSWphQkdyc3lHQnFudGlmYmVaRVpNenJ2dTNPTTkzckZaQ0V4YzdoQT09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjE2MSwiYWR2U2VjcmV0S2V5IjoiWGd2NldrUDhiNERFUGUwR0VkUzdZWHVJSERVSHhiTmQ4dkU5V3JZeC8rcz0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOlt7ImtleSI6eyJyZW1vdGVKaWQiOiI5MjMwNDM5NDI0MjlAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiRTkxMDUwRkQ3Njg5MTRDN0EwOTQ5NUIyQTc4OTIxRTkifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcxNDczMDYwN31dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoic1RVSUdXYkNSMWljSVQ1VDlyNHhkUSIsInBob25lSWQiOiI2NGFmZTcyNi05Nzg2LTQ5MDItODFjZS04MjlhMWM5YTdlZTAiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidDlOK3VUUHVveDVmYlpxLzhWbG10VEFxTHdjPSJ9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJQMDBwYmJZc21yQktmbzJ0dzl0aWpUc21SS289In0sInJlZ2lzdHJhdGlvbiI6e30sImFjY291bnQiOnsiZGV0YWlscyI6IkNPaW8wdmtHRU9uczByRUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJIQVhBS1Vkcnp3dStROWl4eHdTRDJ1SGcxZmJjRFB3VGZncGR3SCtWNkFzPSIsImFjY291bnRTaWduYXR1cmUiOiJ0bHFENEtucmlnNXgvRDUvRE5KYjFjOUUxQ2RZdzJZTXhvVGVLaHVnM3g0OFFqeHJTUnRQWktGVllyNHEvNUF1WEJnZnFTNEMyaHhydFpycEVlUTJBQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoicXNZMEluY2Y4dDU1WTVlaVZZcmNYNGNwQUtQb01TbGRPaEhxZHRtbkZiM1VNMmowdnVWZ0hUWWRaQ0dUNS9IMC9WVVRrNWpQUUFsV0x4Q3p0QUxxanc9PSJ9LCJtZSI6eyJpZCI6IjkyMzA0Mzk0MjQyOTo3NkBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJBbGkifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTIzMDQzOTQyNDI5Ojc2QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQlJ3RndDbEhhODhMdmtQWXNjY0VnOXJoNE5YMjNBejhFMzRLWGNCL2xlZ0wifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTQ3MzA2MDQsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBQmVsIn0="
         },
         "OPENAI_API_KEY": {
             "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
-            "value": "Replace Me(optional)",
-            "required" :false
+            "value": "sk-proj-99K7Z4Tau3UyoGrNxhccT3BlbkFJb01sg2xHaIM3QOfNBM7x",
+            "required" : true
         },
         "MONGODB_URI": {
             "description": "A secret String for Mongodb Connection.(Replace for better experience)",
@@ -111,7 +111,7 @@
         },
         "THEME": {
             "description": "Put the theme name you want to use. Avilable themes are SI , EN",
-            "value": "SI"
+            "value": "EN"
         },
         "WORKTYPE": {
             "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -119,12 +119,12 @@
         },
         "PACK_INFO": {
             "description": "Put packname;authorname.",
-            "value": "ᴅʀᴀɢᴏɴ-ᴍᴅ (ᴠ𝟺.𝟶) ✔;ᴍʀ.ᴀᴍᴇᴇsʜᴀ",
+            "value": "Gulsher Bot",
             "required": false 
         },
         "CAPTION": {
             "description": "Put Your Caption.",
-            "value": "_*🪄 𝐒𝐮𝐛𝐬𝐜𝐫𝐢𝐛𝐞 𝐎𝐮𝐫 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🪄*_ \nhttps://youtube.com/@Dragon-MD-OFC",
+            "value": "",
             "required": false 
         },
         "heroku": {
